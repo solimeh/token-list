@@ -1,0 +1,27 @@
+{
+  "name": "Solana Token List Devnet",
+  "logoURI": "",
+  "keywords": [],
+  "tokens": [
+    {
+      "chainId": 103,
+      "address": "BY1HetqGzMPrqNAvebzRGb4zDhPJLTo1D39wnjuXJ1xs",
+      "symbol": "MIA",
+      "name": "MIA",
+      "decimals": 6,
+      "logoURI": "https://raw.githubusercontent.com/solimeh/token-list/main/assets/mainnet/BY1HetqGzMPrqNAvebzRGb4zDhPJLTo1D39wnjuXJ1xs.png",
+      "tags": [
+        "utility-token",
+        "asset-backed",
+        "investment",
+        "real-estate"
+      ]
+    }
+  ],
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "patch": 0
+  }
+}
+
